@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Scala: attempting to reassign a `val` variable. The `bug.scala` file contains code that attempts to modify a `val`, resulting in a compilation error. The `bugSolution.scala` file shows the correct way to handle this scenario using a `var` if mutability is required.
